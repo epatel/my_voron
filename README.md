@@ -1,7 +1,9 @@
 # My Voron
 
+```
 Size: 300x300
 Hotend: E3D Revo
+```
 
 # Serial
 
